@@ -1,0 +1,13 @@
+{
+    "description":"You can save all your links here!",
+    "manifest_version":3,
+    "version":"1.1",
+    "name":"Leads-Tracker",
+    "action":{
+        "default_popup":"index.html",
+        "default_icon":"pikachu.png"
+    },
+    "permissions":[
+        "tabs"
+    ]
+}
